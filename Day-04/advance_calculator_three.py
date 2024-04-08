@@ -7,6 +7,7 @@ def addition(num1, num2):
 def sub(num1, num2):
     sub = num1 - num2
     return sub
+
 def mul(num1, num2):
     mul = num1 * num2
     return mul
